@@ -222,6 +222,9 @@
 * LeetCode47 https://leetcode.com/problems/permutations-ii/
 * LeetCode60 https://leetcode.com/problems/permutation-sequence/
 
+##### 补充部分：
+* AcWing2023 https://www.acwing.com/problem/content/2025/
+
 #### 10.字符串hash
 * LeetCode1316 https://leetcode.com/problems/distinct-echo-substrings/
 
