@@ -578,6 +578,9 @@
 * LeetCode62 https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
 * LeetCode390 https://leetcode.com/problems/elimination-game/
 
+#### 10.容斥原理
+##### 补充部分：
+* AcWing2032 https://www.acwing.com/problem/content/2034/
 
 # 5.图论
 
