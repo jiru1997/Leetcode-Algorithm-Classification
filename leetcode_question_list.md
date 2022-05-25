@@ -461,6 +461,7 @@
 * LeetCode979 https://leetcode.com/problems/distribute-coins-in-binary-tree/
 * LeetCode982 https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 * LeetCode1028 https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
+* LeetCode1096 https://leetcode.com/problems/brace-expansion-ii/submissions/
 
 #### 6.DFS剪枝
 * LeetCode473 https://leetcode.com/problems/matchsticks-to-square/
