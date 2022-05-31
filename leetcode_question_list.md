@@ -518,6 +518,7 @@
 * LeetCode365 https://leetcode.com/problems/water-and-jug-problem/
 * LeetCode780 https://leetcode.com/problems/reaching-points/
 * LeetCode972 https://leetcode.com/problems/equal-rational-numbers/
+* LeetCode1071 https://leetcode.com/problems/greatest-common-divisor-of-strings/
 
 ##### 补充部分：
 * AcWing808 https://www.acwing.com/problem/content/description/810/
