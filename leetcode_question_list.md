@@ -869,6 +869,7 @@
 * LeetCode738 https://leetcode.com/problems/monotone-increasing-digits/
 * LeetCode777 https://leetcode.com/problems/swap-adjacent-in-lr-string/
 * LeetCode1042 https://leetcode.com/problems/flower-planting-with-no-adjacent/
+* LeetCode1081 https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 * LeetCode1673 https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
 ##### 补充部分：
