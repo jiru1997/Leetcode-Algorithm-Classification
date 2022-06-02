@@ -210,14 +210,17 @@
 * AcWing787 https://www.acwing.com/problem/content/789/
 * AcWing838 https://www.acwing.com/problem/content/840/
 
-#### 8.离散化
+#### 8.多路归并
+* LeetCode1090 https://leetcode.com/problems/largest-values-from-labels/
+
+#### 9.离散化
 * LeetCode414 https://leetcode.com/problems/third-maximum-number/
 * LeetCode1331 https://leetcode.com/problems/rank-transform-of-an-array/
 
 ##### 补充部分：
 * AcWing802 https://www.acwing.com/problem/content/804/
 
-#### 9.排列组合
+#### 10.排列组合
 * LeetCode31 https://leetcode.com/problems/next-permutation/
 * LeetCode46 https://leetcode.com/problems/permutations/
 * LeetCode47 https://leetcode.com/problems/permutations-ii/
@@ -226,7 +229,7 @@
 ##### 补充部分：
 * AcWing2023 https://www.acwing.com/problem/content/2025/
 
-#### 10.字符串hash
+#### 11.字符串hash
 * LeetCode1316 https://leetcode.com/problems/distinct-echo-substrings/
 
 ##### 补充部分：
@@ -234,10 +237,10 @@
 * AcWing139 https://www.acwing.com/problem/content/141/
 * AcWing1402 https://www.acwing.com/problem/content/1404/
 
-#### 11.线扫描
+#### 12.线扫描
 * LeetCode218 https://leetcode.com/problems/the-skyline-problem/
 
-#### 12.RMQ
+#### 13.RMQ
 * AcWing1273 https://www.acwing.com/problem/content/1275/
 
 
