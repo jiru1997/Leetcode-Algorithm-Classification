@@ -230,6 +230,7 @@
 * AcWing2023 https://www.acwing.com/problem/content/2025/
 
 #### 11.字符串hash
+* LeetCode1044 https://leetcode.com/problems/longest-duplicate-substring/
 * LeetCode1316 https://leetcode.com/problems/distinct-echo-substrings/
 
 ##### 补充部分：
