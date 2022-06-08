@@ -71,6 +71,7 @@
 * LeetCode977 https://leetcode.com/problems/squares-of-a-sorted-array/
 * LeetCode986 https://leetcode.com/problems/interval-list-intersections/
 * LeetCode992 https://leetcode.com/problems/subarrays-with-k-different-integers/
+* LeetCode1052 https://leetcode.com/problems/grumpy-bookstore-owner/
 * LeetCode1234 https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 * LeetCode1248 https://leetcode.com/problems/count-number-of-nice-subarrays/
 * LeetCode1461 https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
