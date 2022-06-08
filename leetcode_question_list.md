@@ -904,3 +904,4 @@
 * LeetCode498 https://leetcode.com/problems/diagonal-traverse/
 * LeetCode696 https://leetcode.com/problems/count-binary-substrings/
 * LeetCode885 https://leetcode.com/problems/spiral-matrix-iii/submissions/
+* LeetCode1054 https://leetcode.com/problems/distant-barcodes/
