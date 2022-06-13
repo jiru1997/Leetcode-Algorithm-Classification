@@ -780,7 +780,9 @@
 * AcWing1081 https://www.acwing.com/problem/content/1083/
 
 #### 9.公共序列dp
+* LeetCode1035 https://leetcode.com/problems/uncrossed-lines/
 * LeetCode1092 https://leetcode.com/problems/shortest-common-supersequence/
+
 
 ##### 补充部分：
 * AcWing272 https://www.acwing.com/problem/content/274/
