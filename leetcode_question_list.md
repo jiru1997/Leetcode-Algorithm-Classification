@@ -593,6 +593,9 @@
 ##### 补充部分：
 * AcWing2032 https://www.acwing.com/problem/content/2034/
 
+#### 11.计算几何
+* LeetCode1037 https://leetcode.com/problems/valid-boomerang/
+
 # 5.图论
 
 #### 1.单源最短路径
