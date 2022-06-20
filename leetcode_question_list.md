@@ -688,6 +688,7 @@
 * LeetCode376 https://leetcode.com/problems/wiggle-subsequence/
 * LeetCode446 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 * LeetCode673 https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+* LeetCode1027 https://leetcode.com/problems/longest-arithmetic-subsequence/
 * LeetCode1691 https://leetcode.com/contest/weekly-contest-219/problems/maximum-height-by-stacking-cuboids/
 * LeetCode1713 https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
 
