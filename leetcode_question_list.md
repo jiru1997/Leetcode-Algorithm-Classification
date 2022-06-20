@@ -882,6 +882,7 @@
 * LeetCode781 https://leetcode.com/problems/rabbits-in-forest/
 * LeetCode738 https://leetcode.com/problems/monotone-increasing-digits/
 * LeetCode777 https://leetcode.com/problems/swap-adjacent-in-lr-string/
+* LeetCode1024 https://leetcode.com/problems/video-stitching/
 * LeetCode1042 https://leetcode.com/problems/flower-planting-with-no-adjacent/
 * LeetCode1053 https://leetcode.com/problems/previous-permutation-with-one-swap/
 * LeetCode1081 https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
