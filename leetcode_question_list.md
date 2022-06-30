@@ -594,7 +594,10 @@
 * AcWing2032 https://www.acwing.com/problem/content/2034/
 
 #### 11.计算几何
-* LeetCode1037 https://leetcode.com/problems/valid-boomerang/
+* LeetCode1037 https://leetcode.com/problems/valid-boomerang/ 
+
+#### 12.欧拉函数
+* LeetCode1015 https://leetcode.com/problems/smallest-integer-divisible-by-k/submissions/
 
 # 5.图论
 
