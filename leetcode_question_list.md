@@ -485,6 +485,7 @@
 * LeetCode372 https://leetcode.com/problems/super-pow/
 * LeetCode397 https://leetcode.com/problems/integer-replacement/
 * LeetCode679 https://leetcode.com/problems/24-game/
+* LeetCode995 https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 * LeetCode1131 https://leetcode.com/problems/maximum-of-absolute-value-expression/
 * LeetCode1284 https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 * LeetCode1728 https://leetcode.com/problems/cat-and-mouse-ii/
