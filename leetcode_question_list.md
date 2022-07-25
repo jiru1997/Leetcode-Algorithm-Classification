@@ -595,6 +595,7 @@
 * AcWing2032 https://www.acwing.com/problem/content/2034/
 
 #### 11.计算几何
+* LeetCode963 https://leetcode.com/problems/minimum-area-rectangle-ii/
 * LeetCode1037 https://leetcode.com/problems/valid-boomerang/ 
 
 #### 12.欧拉函数
