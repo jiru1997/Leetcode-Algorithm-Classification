@@ -232,6 +232,7 @@
 
 #### 11.字符串hash
 * LeetCode1044 https://leetcode.com/problems/longest-duplicate-substring/
+* LeetCode1297 https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 * LeetCode1316 https://leetcode.com/problems/distinct-echo-substrings/
 
 ##### 补充部分：
