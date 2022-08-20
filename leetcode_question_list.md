@@ -764,6 +764,7 @@
 * LeetCode1043 https://leetcode.com/problems/partition-array-for-maximum-sum/
 * LeetCode1105 https://leetcode.com/problems/filling-bookcase-shelves/
 * LeetCode1235 https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+* LeetCode1312 https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 * LeetCode1444 https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 * LeetCode1751 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/
 
