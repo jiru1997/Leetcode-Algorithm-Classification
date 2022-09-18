@@ -899,6 +899,7 @@
 * LeetCode1042 https://leetcode.com/problems/flower-planting-with-no-adjacent/
 * LeetCode1053 https://leetcode.com/problems/previous-permutation-with-one-swap/
 * LeetCode1081 https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+* LeetCode1326 https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 * LeetCode1673 https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
 ##### 补充部分：
