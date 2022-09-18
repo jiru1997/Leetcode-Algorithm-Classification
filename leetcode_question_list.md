@@ -469,6 +469,7 @@
 * LeetCode982 https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 * LeetCode1028 https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 * LeetCode1096 https://leetcode.com/problems/brace-expansion-ii/submissions/
+* LeetCode1340 https://leetcode.com/problems/jump-game-v/
 
 #### 6.DFS剪枝
 * LeetCode473 https://leetcode.com/problems/matchsticks-to-square/
