@@ -686,6 +686,7 @@
 * LeetCode576 https://leetcode.com/problems/out-of-boundary-paths/
 * LeetCode741 https://leetcode.com/problems/cherry-pickup/
 * LeetCode764 https://leetcode.com/problems/largest-plus-sign/
+* LeetCode1269 https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/
 * LeetCode1301 https://leetcode.com/problems/number-of-paths-with-max-score/
 * LeetCode1463 https://leetcode.com/problems/cherry-pickup-ii/
 * LeetCode1594 https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
