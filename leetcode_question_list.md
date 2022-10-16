@@ -604,6 +604,9 @@
 #### 12.欧拉函数
 * LeetCode1015 https://leetcode.com/problems/smallest-integer-divisible-by-k/submissions/
 
+#### 13.裴蜀定理
+* LeetCode1250 https://leetcode.com/problems/check-if-it-is-a-good-array/description/
+
 # 5.图论
 
 #### 1.单源最短路径
