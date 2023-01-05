@@ -1,4 +1,4 @@
-💫 chapter 02: 归并排序
+# 💫 chapter 02: 归并排序
 
 ```
 void merge_sort(int q[], int l, int r)
