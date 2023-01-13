@@ -783,6 +783,7 @@
 * LeetCode310 https://leetcode.com/problems/minimum-height-trees/
 * LeetCode834 https://leetcode.com/problems/sum-of-distances-in-tree/
 * LeetCode968 https://leetcode.com/problems/binary-tree-cameras/
+* LeetCode2246 https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/
 
 ##### 补充部分：
 * AcWing1072 https://www.acwing.com/problem/content/1074/
