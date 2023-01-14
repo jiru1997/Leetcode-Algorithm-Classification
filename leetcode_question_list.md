@@ -293,6 +293,7 @@
 * LeetCode928 https://leetcode.com/problems/minimize-malware-spread-ii/
 * LeetCode959 https://leetcode.com/problems/regions-cut-by-slashes/
 * LeetCode990 https://leetcode.com/problems/satisfiability-of-equality-equations/
+* LeetCode1061 https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 * LeetCode1353 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/submissions/
 * LeetCode1697 https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
