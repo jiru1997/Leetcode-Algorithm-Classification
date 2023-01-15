@@ -296,6 +296,7 @@
 * LeetCode1061 https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 * LeetCode1353 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/submissions/
 * LeetCode1697 https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
+* LeetCode2421 https://leetcode.com/problems/number-of-good-paths/description/
 
 #### 4.trie
 * LeetCode208 https://leetcode.com/problems/implement-trie-prefix-tree/
