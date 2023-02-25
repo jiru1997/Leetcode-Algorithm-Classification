@@ -319,6 +319,7 @@
 * LeetCode480 https://leetcode.com/problems/sliding-window-median/
 * LeetCode632 https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 * LeetCode1353 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+* LeetCode1675 https://leetcode.com/problems/minimize-deviation-in-array/description/
 * LeetCode1705 https://leetcode.com/problems/maximum-number-of-eaten-apples/
 
 #### 6.树状数组(单点修改，区间查询)
