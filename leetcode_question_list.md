@@ -447,6 +447,7 @@
 * LeetCode803 https://leetcode.com/problems/bricks-falling-when-hit/
 * LeetCode827 https://leetcode.com/problems/making-a-large-island/
 * LeetCode1293 https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+* LeetCode1345 https://leetcode.com/problems/jump-game-iv/description/
 * LeetCode1654 https://leetcode.com/problems/minimum-jumps-to-reach-home/
 
 ##### 补充部分：
