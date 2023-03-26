@@ -682,6 +682,8 @@
 * AcWing860 https://www.acwing.com/problem/content/862/
 * AcWing861 https://www.acwing.com/problem/content/863/
 
+#### 12.基环树
+* LeetCode2360 https://leetcode.com/problems/longest-cycle-in-a-graph/description/
 
 # 6.动态规划
 
