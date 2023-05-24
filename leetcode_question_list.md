@@ -321,6 +321,7 @@
 * LeetCode1353 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 * LeetCode1675 https://leetcode.com/problems/minimize-deviation-in-array/description/
 * LeetCode1705 https://leetcode.com/problems/maximum-number-of-eaten-apples/
+* LeetCode2542 https://leetcode.com/problems/maximum-subsequence-score/
 
 #### 6.树状数组(单点修改，区间查询)
 * LeetCode307 https://leetcode.com/problems/range-sum-query-mutable/
