@@ -752,6 +752,7 @@
 * LeetCode691 https://leetcode.com/problems/stickers-to-spell-word/
 * LeetCode934 https://leetcode.com/problems/find-the-shortest-superstring/
 * LeetCode996 https://leetcode.com/problems/number-of-squareful-arrays/
+* LeetCode1125 https://leetcode.com/problems/smallest-sufficient-team/description/
 * LeetCode1411 https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
 * LeetCode1434 https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
 * LeetCode1494 https://leetcode.com/problems/parallel-courses-ii/
