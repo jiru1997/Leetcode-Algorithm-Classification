@@ -669,6 +669,7 @@
 * LeetCode210 https://leetcode.com/problems/course-schedule-ii/
 * LeetCode802 https://leetcode.com/problems/find-eventual-safe-states/
 * LeetCode1048 https://leetcode.com/problems/longest-string-chain/
+* LeetCode1203 https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/
 * LeetCode1615 https://leetcode.com/problems/maximal-network-rank/
 
 #### 9.欧拉回路
