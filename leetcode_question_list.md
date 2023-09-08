@@ -33,7 +33,9 @@
 * LeetCode1300 https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 * LeetCode1552 https://leetcode.com/problems/magnetic-force-between-two-balls/
 * LeetCode1482 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
- 
+
+##### 补充部分(三分法)：
+* AcWing5201 https://www.acwing.com/problem/content/5204/
 
 #### 2.双指针、滑动窗口(满足某种性质的区间个数或长度问题)
 * LeetCode3 https://leetcode.com/problems/longest-substring-without-repeating-characters/
