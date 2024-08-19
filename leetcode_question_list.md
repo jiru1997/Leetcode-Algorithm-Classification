@@ -64,7 +64,6 @@
 * LeetCode647 https://leetcode.com/problems/palindromic-substrings/
 * LeetCode713 https://leetcode.com/problems/subarray-product-less-than-k/
 * LeetCode763 https://leetcode.com/problems/partition-labels/
-* LeetCode778 https://leetcode.com/problems/swim-in-rising-water/
 * LeetCode845 https://leetcode.com/problems/longest-mountain-in-array/
 * LeetCode881 https://leetcode.com/problems/boats-to-save-people/
 * LeetCode904 https://leetcode.com/problems/fruit-into-baskets/
